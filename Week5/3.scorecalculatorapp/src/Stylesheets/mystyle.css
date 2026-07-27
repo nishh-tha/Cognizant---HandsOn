@@ -1,0 +1,23 @@
+.Name {
+    font-size: large;
+    color: blue;
+}
+
+.School {
+    font-size: large;
+    color: crimson;
+}
+
+.Total {
+    font-size: large;
+    color: darkmagenta;
+}
+
+.Score {
+    font-size: large;
+    color: forestgreen;
+}
+
+.formatstyle {
+    text-align: center;
+}
